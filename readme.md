@@ -10,6 +10,6 @@ To accomplish the task, the following tools were used:
 - Docker-compose
 - Postgres
 
-### Archutecture
+### Architecture
 
 ![Project Archutecture](https://github.com/luizhyamada/hostelScraping/blob/main/assets/schema.png?raw=true)
